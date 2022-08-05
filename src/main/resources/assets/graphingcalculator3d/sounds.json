@@ -1,0 +1,17 @@
+{
+  "heew": {
+    "category": "block",
+    "subtitle": "graphingcalculator3d.subtitle.heew",
+    "sounds": [ "graphingcalculator3d:heew" ]
+  },
+  "pulses": {
+    "category": "block",
+    "subtitle": "graphingcalculator3d.subtitle.pulses",
+    "sounds": [ "graphingcalculator3d:pulses" ]
+  },
+  "pffff": {
+    "category": "block",
+    "subtitle": "graphingcalculator3d.subtitle.pffff",
+    "sounds": [ "graphingcalculator3d:pffff" ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "graphingcalculator3d:block_gc_oblate_spheroidal_varphi" }
+    }
+}
